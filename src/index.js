@@ -8,6 +8,7 @@ const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
     <App />
+    <p><a href="https://github.com/Londysiba/Portfolio_project"> Github link - by Londeka</a></p>
   </React.StrictMode>
 );
 
