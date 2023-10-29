@@ -1,0 +1,6 @@
+
+  .unit a {
+    text-decoration: none; /* Remove underline */
+    color: #007BFF; /* Define a color for the unit links (blue in this case) */
+    cursor: pointer;
+  }
